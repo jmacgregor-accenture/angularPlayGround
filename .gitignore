@@ -5,6 +5,7 @@
 
 *.user
 *.cfg
+App settings.Development.json
 
 # Python
 venv/
