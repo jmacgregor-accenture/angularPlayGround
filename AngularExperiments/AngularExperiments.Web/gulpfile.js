@@ -6,7 +6,7 @@ var paths = {
 var librariesToMove = [
     paths.sourcePath + '/core-js/client/shim.min.js',
     paths.sourcePath + '/zone.js/dist/zone.min.js',
-    paths.sourcePath + '/systemjs/dist/system.js'
+    paths.sourcePath + '/systemjs/dist/system.src.js'
 ];
 
 var gulp = require('gulp');
