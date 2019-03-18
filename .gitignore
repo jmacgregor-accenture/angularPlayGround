@@ -6,6 +6,9 @@
 *.user
 *.cfg
 App settings.Development.json
+**/node_modules/
+**/wwwroot/libs/
+**/package-lock.json
 
 # Python
 venv/
